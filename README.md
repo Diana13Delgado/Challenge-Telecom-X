@@ -8,3 +8,4 @@ Este proyecto analiza la evasión de clientes (*churn*) en Telecom X con el obje
 Entender qué variables influyen en la cancelación de clientes y proporcionar insights para desarrollar estrategias de retención efectivas.
 
 ---
+![Flujo ETL](img/etl_diagrama.png)
