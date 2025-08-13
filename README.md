@@ -104,7 +104,7 @@ ___
   **- Gasto diario (`cuentas_diarias`)**
   <img width="984" height="469" alt="image" src="https://github.com/user-attachments/assets/639de454-1926-4d6d-aefc-45e92031feaa" />
 
-- Uso de histogramas, boxplots y violin plots para identificar patrones.
+- Uso de histogramas y boxplots plots para identificar patrones.
 
 ---
 
